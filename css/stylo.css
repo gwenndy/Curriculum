@@ -1,0 +1,37 @@
+@font-face {
+	font-family: "Sofia";
+	src: url(../fonts/Sofia-Regular.ttf);
+}
+@font-face {
+	font-family: "Ubuntu";
+	src: url(../fonts/UbuntuCondensed-Regular.ttf);
+}
+@font-face {
+	font-family: "poiret";
+	src: url(../fonts/UPoiretOne-Regular.ttf);
+}
+.header {
+	font-family: Sofia;
+	background:#5193A1;
+}
+.img {
+	text-align: center;
+}
+aside {
+	background:#5193A1;
+}
+h3 {
+	font-family: Ubuntu;
+}
+p, dt, dd, li {
+	font-family: poiret;
+}
+.description {
+	margin-top: 25px;
+}
+section {
+	background: #5193A1;
+}
+.study {
+	margin-top: 25px;
+}

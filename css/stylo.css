@@ -7,7 +7,7 @@
 	src: url(../fonts/UbuntuCondensed-Regular.ttf);
 }
 @font-face {
-	font-family: "poiret";
+	font-family: "Ubuntur";
 	src: url(../fonts/Ubuntu-Regular.ttf);
 }
 .header {
@@ -24,7 +24,7 @@ h3 {
 	font-family: Ubuntu;
 }
 p, dt, dd, li {
-	font-family: poiret;
+	font-family: ubuntur;
 }
 .description {
 	margin-top: 25px;
